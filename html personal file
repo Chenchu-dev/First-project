@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+  <meta charset="utf-8">
+  <title>&#128512;My personal website </title>
+</head>
+
+<body>
+  <table cellspacing="20">
+    <tr>
+      <td><img src="circle-cropped.png" alt="Chenchu Image" height="200"></td>
+      <td>
+        <h1>Chenchu Aravind</h1>
+        <p>
+          <em>Founder and CEO of<strong>Google</strong>
+          </em>
+        </p>
+        <p>I am learniong to code</p>
+      </td>
+    </tr>
+    <tr>
+
+    </tr>
+  </table>
+  <hr>
+
+  <table>
+    <thead>
+      <th>School Name</th>
+      <th> Year of studying</th>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Bharath dass</td>
+        <td> 2005-2020</td>
+      </tr>
+      <tr>
+        <td>VIT Chennai</td>
+        <td>2020-20125</td>
+      </tr>
+    </tbody>
+  </table>
+  <hr>
+  <h3>Skills</h3>
+
+  <table cellspacing="20">
+    <tr>
+    <tr>
+      <td>Public Speaking</td>
+      <td>&#11088; &#11088;</td>
+      <td>Cooking</td>
+      <td>&#11088; &#11088;&#11088;</td>
+    </tr>
+    <tr>
+      <td>cycling</td>
+      <td>&#11088;&#11088;&#11088;&#11088;&#11088;</td>
+      <td>cycling</td>
+      <td>&#11088;&#11088;&#11088;</td>
+    </tr>
+
+
+  </table>
+  <hr>
+  <h3><strong>Contact me</strong></h3>
+
+  <ol>
+    <li>My Contact details</li>
+    <ul>
+      <li>Facebook <a href="https://www.facebook.com/"> Facebook</a></li>
+      <li>Instagram <a href="https://www.instagram.com/chenchuaravind/">click this link</a></li>
+    </ul>
+    <li><em>My Education</em></li>
+    <ul>
+      <li>Bharath Dass <a href="shorturl.at/dfgoL">Link to the location</a></li>
+      <li> Vellore Institute of Technology<a href="shorturl.at/fFGPV">Link to the Location</a></li>
+    </ul>
+
+  </ol>
+<hr>
+<p><strong><em>Enter to your details :</em></strong></p>
+  <form class="" action="index.html" method="post">
+    <label for="">Name:</label>
+      <input type="text" name="Name" value="">
+      <label for=""><br>Phone Number:</label></td>
+      <input type="number" name="" value="">
+      <br>
+      <label for="">check the box to login:</label>
+      <input type="checkbox" name="" value="">
+      <br>
+      <label>Enter Date:</label>
+      <input type="date" name="" value="">
+      <br>
+      <button type="button" name="button">Submit</button>
+
+  </form>
+  <p><em><strong>For query:</strong></em></p>
+  <form class="" action="index.html" method="post">
+    <label>Email:</label>
+      <input type="text" name="" value="">
+      <br>
+      <label>Password:</label>
+      <input type="password" name="" value=""><br>
+      <button type="button" name="button">Submit</button><br>
+      <label>Type your query here:</label>
+      <textarea name="name" rows="8" cols="80"></textarea>
+  </form>
+</body>
+
+
+</html>
